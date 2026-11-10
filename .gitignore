@@ -1,0 +1,6 @@
+anyview-data/
+*.dpapi
+__pycache__/
+.venv/
+.env
+.env.*

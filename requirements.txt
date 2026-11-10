@@ -1,0 +1,2 @@
+selenium>=4.38,<5
+requests[socks]>=2.32,<3
